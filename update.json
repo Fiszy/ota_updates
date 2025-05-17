@@ -1,0 +1,6 @@
+{
+    "version": 3,
+    "allowedAppVersions": ["1.1.9"], 
+    "downloadAndroidUrl": "",
+    "downloadIosUrl": "https://eedu.com.ng/ota/main.jsbundle.zip?alt=media"
+  }
