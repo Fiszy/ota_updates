@@ -1,6 +1,6 @@
 {
     "version": 13,
-    "allowedAppVersions": ["1.2.4", "1.2.3"], 
+    "allowedAppVersions": ["1.2.5"], 
     "downloadAndroidUrl": "",
     "downloadIosUrl": "https://fiszy.github.io/ota_updates/main.jsbundle.zip?alt=media"
   }
